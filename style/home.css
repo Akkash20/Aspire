@@ -118,3 +118,21 @@ color: #ffffff;
     right: 0;
   }
   
+  .h1download {
+    osition: absolute;
+width: 100px;
+height: 94px;
+left: 452px;
+top: 625px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 20px;
+font-size: 10px;
+line-height: 59px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #001DB4;
+  }
